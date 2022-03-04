@@ -10,6 +10,9 @@
 		6306C5D127C74EBA0039995B /* MoviesViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6306C5D027C74EBA0039995B /* MoviesViewController.swift */; };
 		6306C5D327C7B93C0039995B /* MovieCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6306C5D227C7B93C0039995B /* MovieCell.swift */; };
 		6306C5D627C7C1E20039995B /* AlamofireImage in Frameworks */ = {isa = PBXBuildFile; productRef = 6306C5D527C7C1E20039995B /* AlamofireImage */; };
+		6330117327D2348B0062F17F /* MovieDetailsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6330117227D2348B0062F17F /* MovieDetailsViewController.swift */; };
+		6330117527D24EF20062F17F /* MovieGridViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6330117427D24EF20062F17F /* MovieGridViewController.swift */; };
+		6330117727D2C0EB0062F17F /* MovieGridCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6330117627D2C0EB0062F17F /* MovieGridCell.swift */; };
 		637C5BD427C6F49900852EA4 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 637C5BD327C6F49900852EA4 /* AppDelegate.swift */; };
 		637C5BD627C6F49900852EA4 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 637C5BD527C6F49900852EA4 /* SceneDelegate.swift */; };
 		637C5BD827C6F49900852EA4 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 637C5BD727C6F49900852EA4 /* ViewController.swift */; };
@@ -41,6 +44,9 @@
 /* Begin PBXFileReference section */
 		6306C5D027C74EBA0039995B /* MoviesViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MoviesViewController.swift; sourceTree = "<group>"; };
 		6306C5D227C7B93C0039995B /* MovieCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MovieCell.swift; sourceTree = "<group>"; };
+		6330117227D2348B0062F17F /* MovieDetailsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MovieDetailsViewController.swift; sourceTree = "<group>"; };
+		6330117427D24EF20062F17F /* MovieGridViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MovieGridViewController.swift; sourceTree = "<group>"; };
+		6330117627D2C0EB0062F17F /* MovieGridCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MovieGridCell.swift; sourceTree = "<group>"; };
 		637C5BD027C6F49900852EA4 /* Flix.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Flix.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		637C5BD327C6F49900852EA4 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		637C5BD527C6F49900852EA4 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -110,6 +116,9 @@
 				637C5BD727C6F49900852EA4 /* ViewController.swift */,
 				6306C5D027C74EBA0039995B /* MoviesViewController.swift */,
 				637C5BD927C6F49900852EA4 /* Main.storyboard */,
+				6330117627D2C0EB0062F17F /* MovieGridCell.swift */,
+				6330117427D24EF20062F17F /* MovieGridViewController.swift */,
+				6330117227D2348B0062F17F /* MovieDetailsViewController.swift */,
 				637C5BDC27C6F49A00852EA4 /* Assets.xcassets */,
 				637C5BDE27C6F49A00852EA4 /* LaunchScreen.storyboard */,
 				637C5BE127C6F49A00852EA4 /* Info.plist */,
@@ -274,6 +283,9 @@
 			files = (
 				637C5BD827C6F49900852EA4 /* ViewController.swift in Sources */,
 				637C5BD427C6F49900852EA4 /* AppDelegate.swift in Sources */,
+				6330117327D2348B0062F17F /* MovieDetailsViewController.swift in Sources */,
+				6330117527D24EF20062F17F /* MovieGridViewController.swift in Sources */,
+				6330117727D2C0EB0062F17F /* MovieGridCell.swift in Sources */,
 				637C5BD627C6F49900852EA4 /* SceneDelegate.swift in Sources */,
 				6306C5D327C7B93C0039995B /* MovieCell.swift in Sources */,
 				6306C5D127C74EBA0039995B /* MoviesViewController.swift in Sources */,
